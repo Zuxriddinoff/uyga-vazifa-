@@ -1,6 +1,7 @@
 let a = 10
 for (let i = 0; i < 10; i++){
     console.log("hello world");
+<<<<<<< HEAD
 }
 
 
@@ -24,3 +25,6 @@ Author: Zuxriddinoff <zuxriddinovoff@gmail.com>
 Date:   Sat Mar 15 12:33:15 2025 +0500
 
     commit
+=======
+}
+>>>>>>> 1ef0bb1efc792dd4eac2288941f7d3de3f6bb2d7
